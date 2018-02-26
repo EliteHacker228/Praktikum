@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "ru.samsung.itschool.book.stardustcrusaders"
+        applicationId "ru.samsung.itschool.book.heirophantgreen"
         minSdkVersion 14
         targetSdkVersion 26
         versionCode 1
